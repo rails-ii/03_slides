@@ -1,0 +1,62 @@
+Rails course, #3
+================
+:author:    Andrzej Krzywda
+:copyright: Andrzej Krzywda
+:backend:   slidy
+:max-width: 45em
+:data-uri:
+:icons:
+
+
+General stuff
+-------------
+
+* Why are we using heroku?
+* The apps on github
+* 2nd exercise - summary
+* ruby koans
+* missing lectures: 08.11, 15.11 (4h)
+* irc
+* exercise hours - Thu 12.00 - 14.00 (Skype)
+* participating is not mandatory
+* repo instead of a website
+
+Fourth exercise
+-------------
+
+* simple app with search and pagination
+* haml
+
+
+Rails news
+---------
+
+* Rails 3.1.1
+* Bundler 1.1 pre
+
+Plan for today
+-------------
+
+* Summary from last time
+* Search, pagination - coding a simple app
+* Faker - https://github.com/stympy/faker
+* Partials
+* Callbacks
+
+
+Search
+-----
+
+* https://github.com/ernie/ransack
+* gem "ransack"
+* Extend index action
+* Extend index view
+
+
+
+Tips for today
+-------------
+
+* heroku logs
+* haml-rails
+
